@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    color: white;
+}
+.kit{
+    color:aqua
+}
+.bg{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74Cn2sTtQwS_mSMnxoUXQn6Qob10C3AreXQ&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: 1500px 300px;
+    
+}
+
+#g{
+    color:white;
+    padding-left: 100px;
+}
+#grid{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    color:black;
+    padding-top: 80px;
+    border-radius: 20px;
+    border-color: darksalmon;
+    padding-left: 90px;
+    background-color: bisque;
+  
+}
+.he{
+    padding-left: 50px;
+    color:slateblue
+}
+.pr{
+    padding-left: 90px;
+    color:slateblue
+}
+.sup{
+    color: bisque;
+}
+.best{
+    color:cyan;
+}
+.buy{
+    text-align: center;
+    background-color: blanchedalmond;
+}
